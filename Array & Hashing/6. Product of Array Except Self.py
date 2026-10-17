@@ -54,8 +54,6 @@ class Solution(object):
 
         return answer
 
-
-
 sol = Solution()
 print(sol.productExceptSelf(nums=[1,2,3,4])) # output [24,12,8,6]
 print(sol.productExceptSelf(nums=[-1,1,0,-3,3])) # output [0,0,9,0,0]

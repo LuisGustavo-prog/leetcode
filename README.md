@@ -11,9 +11,8 @@ A record of the problems I solve as I deepen my programming logic.
 - [x] Two Sum
 - [x] Group Anagrams
 - [x] Top K Frequent Elements
-- [ ] Product of Array Except Self
+- [x] Product of Array Except Self
 - [ ] Valid Sudoku
-- [ ] Encode and Decode Strings
 - [ ] Longest Consecutive Sequence
 
 ## 2. Two Pointers
