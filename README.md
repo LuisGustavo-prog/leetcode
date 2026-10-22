@@ -12,12 +12,12 @@ A record of the problems I solve as I deepen my programming logic.
 - [x] Group Anagrams
 - [x] Top K Frequent Elements
 - [x] Product of Array Except Self
-- [ ] Valid Sudoku
-- [ ] Longest Consecutive Sequence
+- [x] Valid Sudoku
+- [x] Longest Consecutive Sequence
 
 ## 2. Two Pointers
 
-- [ ] Valid Palindrome
+- [x] Valid Palindrome
 - [ ] Two Sum II (Input Array Is Sorted)
 - [ ] 3Sum
 - [ ] Container With Most Water
