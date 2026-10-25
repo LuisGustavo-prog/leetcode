@@ -18,7 +18,7 @@ A record of the problems I solve as I deepen my programming logic.
 ## 2. Two Pointers
 
 - [x] Valid Palindrome
-- [ ] Two Sum II (Input Array Is Sorted)
+- [x] Two Sum II (Input Array Is Sorted)
 - [ ] 3Sum
 - [ ] Container With Most Water
 - [ ] Trapping Rain Water
