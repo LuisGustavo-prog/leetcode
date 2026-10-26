@@ -19,7 +19,7 @@ A record of the problems I solve as I deepen my programming logic.
 
 - [x] Valid Palindrome
 - [x] Two Sum II (Input Array Is Sorted)
-- [ ] 3Sum
+- [x] 3Sum
 - [ ] Container With Most Water
 - [ ] Trapping Rain Water
 
