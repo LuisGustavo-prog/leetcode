@@ -21,7 +21,7 @@ A record of the problems I solve as I deepen my programming logic.
 - [x] Two Sum II (Input Array Is Sorted)
 - [x] 3Sum
 - [x] Container With Most Water
-- [ ] Trapping Rain Water
+- [x] Trapping Rain Water
 
 ## 3. Sliding Window
 
