@@ -25,7 +25,7 @@ A record of the problems I solve as I deepen my programming logic.
 
 ## 3. Sliding Window
 
-- [ ] Best Time to Buy and Sell Stock
+- [x] Best Time to Buy and Sell Stock
 - [ ] Longest Substring Without Repeating Characters
 - [ ] Longest Repeating Character Replacement
 - [ ] Permutation in String

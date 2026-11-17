@@ -34,12 +34,12 @@
 
 class Solution(object):
     def twoSum(self, numbers, target):
-        sum_map = dict()
+        sum_map, target_result = dict(), 0 
 
         for num in range(len(numbers)):
             target_result = target - numbers[num]
 
-            if target_result in sum_map:
+            if target - numbers[num] in sum_map:
                 return [sum_map[target_result] + 1, num + 1]
 
             sum_map[numbers[num]] = num

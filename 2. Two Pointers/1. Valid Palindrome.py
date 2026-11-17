@@ -26,7 +26,7 @@
 # s consists only of printable ASCII characters.
 
 class Solution(object):
-    def isPalindrome(self, s: list[str]):
+    def isPalindrome(self, s: str):
         palindrome_list = [lette for lette in s.lower() if lette.isalnum()]
 
         left, right = 0, len(palindrome_list) - 1
@@ -40,7 +40,6 @@ class Solution(object):
             return False
 
         return True
-
 
 sol = Solution()
 print(sol.isPalindrome(s = "A man, a plan, a canal: Panama")) # Output: true
